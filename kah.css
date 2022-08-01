@@ -1,0 +1,21 @@
+header{
+    min-width: 1450px;
+}
+body{
+    min-width: 1400px;
+}
+.swiper{
+    min-width: 1450px;
+}
+#deuxieme{
+    min-width: 1400px;
+}
+#troisieme{
+    min-width: 1400px;
+}
+#quatrieme{
+    min-width: 1400px;
+}
+.aa{
+    min-width: 1500px; 
+}
